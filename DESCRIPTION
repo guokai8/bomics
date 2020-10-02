@@ -1,0 +1,10 @@
+Package: bomics
+Type: Package
+Title: bomics provide functions to analysis the omics data
+Version: 0.0.1
+Author: Kai Guo
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: bomics provide functions to analysis the omics data.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
